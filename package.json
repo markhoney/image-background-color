@@ -1,5 +1,5 @@
 {
-  "name": "background-color",
+  "name": "image-background-color",
   "version": "1.0.0",
   "description": "Get the background color of an image",
   "main": "index.js",
