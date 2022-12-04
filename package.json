@@ -1,0 +1,22 @@
+{
+  "name": "background-color",
+  "version": "1.0.0",
+  "description": "Get the background color of an image",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markhoney/image-background-color.git"
+  },
+  "author": "Mark Honeychurch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/markhoney/image-background-color/issues"
+  },
+  "homepage": "https://github.com/markhoney/image-background-color#readme",
+  "dependencies": {
+    "get-pixels": "^3.3.3"
+  }
+}
