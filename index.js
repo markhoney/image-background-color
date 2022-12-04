@@ -45,4 +45,4 @@ function getBackgroundColour(image, border = 1) {
 	});
 }
 
-export default getBackgroundColour;
+module.exports = getBackgroundColour;
